@@ -1,0 +1,96 @@
+{
+    "img_url": "https://www.vinbudin.is/Portaldata/1/Resources/vorumyndir/original/22837_r.jpg", 
+    "name": "Grevens Pærecider", 
+    "price": "", 
+    "price_isk": "491", 
+    "stock": [
+        {
+            "name": "Austurstræti", 
+            "stock": "14"
+        }, 
+        {
+            "name": "Kringlunni", 
+            "stock": "25"
+        }, 
+        {
+            "name": "Skútuvogi", 
+            "stock": "26"
+        }, 
+        {
+            "name": "Borgartúni", 
+            "stock": "23"
+        }, 
+        {
+            "name": "Skeifunni", 
+            "stock": "52"
+        }, 
+        {
+            "name": "Stekkjarbakka", 
+            "stock": "41"
+        }, 
+        {
+            "name": "Heiðrún", 
+            "stock": "33"
+        }, 
+        {
+            "name": "Spöngin", 
+            "stock": "36"
+        }, 
+        {
+            "name": "Eiðistorgi", 
+            "stock": "12"
+        }, 
+        {
+            "name": "Dalvegi", 
+            "stock": "61"
+        }, 
+        {
+            "name": "Smáralind", 
+            "stock": "24"
+        }, 
+        {
+            "name": "Hafnarfirði", 
+            "stock": "29"
+        }, 
+        {
+            "name": "Mosfellsbæ", 
+            "stock": "18"
+        }, 
+        {
+            "name": "Akranesi", 
+            "stock": "41"
+        }, 
+        {
+            "name": "Borgarnesi", 
+            "stock": "16"
+        }, 
+        {
+            "name": "Sauðárkróki", 
+            "stock": "19"
+        }, 
+        {
+            "name": "Akureyri", 
+            "stock": "40"
+        }, 
+        {
+            "name": "Egilsstöðum", 
+            "stock": "17"
+        }, 
+        {
+            "name": "Reykjanesbæ", 
+            "stock": "53"
+        }, 
+        {
+            "name": "Selfossi", 
+            "stock": "18"
+        }, 
+        {
+            "name": "Hveragerði", 
+            "stock": "48"
+        }, 
+        {
+            "name": "Vestmannaeyjum", 
+            "stock": "29"
+        }
+    ]
+}

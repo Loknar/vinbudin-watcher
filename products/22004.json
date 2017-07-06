@@ -1,0 +1,48 @@
+{
+    "img_url": "https://www.vinbudin.is/Portaldata/1/Resources/vorumyndir/original/22004_r.jpg", 
+    "name": "Grevens Skogsbær", 
+    "price": "", 
+    "price_isk": "491", 
+    "stock": [
+        {
+            "name": "Kringlunni", 
+            "stock": "92"
+        }, 
+        {
+            "name": "Skútuvogi", 
+            "stock": "144"
+        }, 
+        {
+            "name": "Skeifunni", 
+            "stock": "41"
+        }, 
+        {
+            "name": "Heiðrún", 
+            "stock": "58"
+        }, 
+        {
+            "name": "Dalvegi", 
+            "stock": "27"
+        }, 
+        {
+            "name": "Smáralind", 
+            "stock": "43"
+        }, 
+        {
+            "name": "Hafnarfirði", 
+            "stock": "24"
+        }, 
+        {
+            "name": "Mosfellsbæ", 
+            "stock": "37"
+        }, 
+        {
+            "name": "Akureyri", 
+            "stock": "19"
+        }, 
+        {
+            "name": "Reykjanesbæ", 
+            "stock": "33"
+        }
+    ]
+}

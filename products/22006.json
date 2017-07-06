@@ -1,0 +1,52 @@
+{
+    "img_url": "https://www.vinbudin.is/Portaldata/1/Resources/vorumyndir/original/22006_r.jpg", 
+    "name": "Grevens Iste og fersken", 
+    "price": "", 
+    "price_isk": "491", 
+    "stock": [
+        {
+            "name": "Kringlunni", 
+            "stock": "78"
+        }, 
+        {
+            "name": "Skútuvogi", 
+            "stock": "111"
+        }, 
+        {
+            "name": "Skeifunni", 
+            "stock": "41"
+        }, 
+        {
+            "name": "Heiðrún", 
+            "stock": "51"
+        }, 
+        {
+            "name": "Spöngin", 
+            "stock": "48"
+        }, 
+        {
+            "name": "Dalvegi", 
+            "stock": "68"
+        }, 
+        {
+            "name": "Smáralind", 
+            "stock": "64"
+        }, 
+        {
+            "name": "Hafnarfirði", 
+            "stock": "32"
+        }, 
+        {
+            "name": "Akureyri", 
+            "stock": "73"
+        }, 
+        {
+            "name": "Reykjanesbæ", 
+            "stock": "63"
+        }, 
+        {
+            "name": "Selfossi", 
+            "stock": "71"
+        }
+    ]
+}

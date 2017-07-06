@@ -1,0 +1,24 @@
+{
+    "img_url": "https://www.vinbudin.is/Portaldata/1/Resources/vorumyndir/original/23282_r.jpg", 
+    "name": "Grevens Engelsk Tangy Apple", 
+    "price": "", 
+    "price_isk": "491", 
+    "stock": [
+        {
+            "name": "Kringlunni", 
+            "stock": "84"
+        }, 
+        {
+            "name": "Skútuvogi", 
+            "stock": "48"
+        }, 
+        {
+            "name": "Heiðrún", 
+            "stock": "47"
+        }, 
+        {
+            "name": "Hafnarfirði", 
+            "stock": "58"
+        }
+    ]
+}
