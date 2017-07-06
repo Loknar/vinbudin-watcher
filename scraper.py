@@ -17,7 +17,7 @@ def get_vinbudin_product_data(product_id):
     product_data = {
         'name': '',
         'img_url': '',
-        'price': '',  # in ISK
+        'price_isk': '',  # in ISK
         'stock': []  # ,
         # 'timestamp': ''
     }
